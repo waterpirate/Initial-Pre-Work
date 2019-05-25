@@ -1,0 +1,7 @@
+/*Summary: This section gave me an understanding of indentifying a color to an element by using hexadecimal numbers for a color value.*/
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>

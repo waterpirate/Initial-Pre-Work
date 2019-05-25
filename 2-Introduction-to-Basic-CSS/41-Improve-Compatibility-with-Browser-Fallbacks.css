@@ -1,0 +1,15 @@
+/*Summary: This section gave me an understanding of adding more than one compatable declaration for a color class in order to avoid incompatable browser reading errors for different users.*/
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>
