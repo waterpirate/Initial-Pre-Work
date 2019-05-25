@@ -1,0 +1,17 @@
+/*Summary: This section gave me an understanding of when multiple style elements collide with each other and how to determine which one rules over the other. */
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+
+  }
+
+  .pink-text{
+    color: pink;
+  }
+
+</style>
+
+<h1 class="pink-text">Hello World!</h1>

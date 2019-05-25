@@ -1,0 +1,19 @@
+/*Summary: This section gave me an understanding of body element and how every HTML page has one. Body element is styled with CSS. */
+
+<style>
+
+  body  {
+
+     color: green;
+     font-family: monospace;
+
+  }
+
+
+
+
+</style>
+
+<div class=".green-background">
+
+<h1>Hello World</h1>

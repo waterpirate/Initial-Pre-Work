@@ -1,0 +1,8 @@
+/*Summary: This section gave me an understanding of adding a background color using a body element.*/
+
+<style>
+
+body {
+  background-color: black;
+}
+</style>
