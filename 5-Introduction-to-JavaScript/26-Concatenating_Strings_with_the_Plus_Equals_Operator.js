@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of using the " += " together in order to concatenate a string within a variable.
+// Summary: This section gave me an understanding of using the " += " together in order to concatenate a string within a variable.
 
 
 // Example

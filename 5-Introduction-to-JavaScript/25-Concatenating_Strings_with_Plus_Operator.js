@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of using the concatenation operator in order to assign and display multiple quote indentations within a sentence.
+// Summary: This section gave me an understanding of using the concatenation operator in order to assign and display multiple quote indentations within a sentence.
 
 // Example
 var ourStr = "I come first. " + "I come second.";

@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of using the " /= " operator to divide a variable by any number.
+// Summary: This section gave me an understanding of using the " /= " operator to divide a variable by any number.
 
 var a = 48;
 var b = 108;

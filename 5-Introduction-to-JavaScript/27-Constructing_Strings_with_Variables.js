@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding ofbuilding and adding more variables to a string using the Mad Libs style. 
+// Summary: This section gave me an understanding of building and adding more variables to a string using the Mad Libs style.
 
 
 // Example

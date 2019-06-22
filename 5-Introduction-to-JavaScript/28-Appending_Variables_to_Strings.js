@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of building a string and appending multiple variables to it using the " += " operator.
+// Summary: This section gave me an understanding of building a string and appending multiple variables to it using the " += " operator.
 
 // Example
 var anAdjective = "awesome!";

@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of using the " -= " operator in order to subtract a numbered value from a variable.
+// Summary: This section gave me an understanding of using the " -= " operator in order to subtract a numbered value from a variable.
 
 var a = 11;
 var b = 9;

@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of the " % " remainder operator.
+// Summary: This section gave me an understanding of the " % " remainder operator.
 
 // Only change code below this line
 

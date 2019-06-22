@@ -1,4 +1,4 @@
-// Summary:This section gave me an understanding of how using the " = " assignment operator in order to assign multiple variables to each other. This section also stated that assignment order is always resolved in order from right to left.
+// Summary: This section gave me an understanding of how using the " = " assignment operator in order to assign multiple variables to each other. This section also stated that assignment order is always resolved in order from right to left.
 
 // Setup
 var a;

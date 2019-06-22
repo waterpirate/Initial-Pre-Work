@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of using Bracket Notation within a string in order. The number value in bracket notation will show the index number for that chatacter.
+// Summary: This section gave me an understanding of using Bracket Notation within a string in order. The number value in bracket notation will show the index number for that chatacter.
 
 // Example
 var firstLetterOfFirstName = "";

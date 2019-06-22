@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of creating 2 seperate string variables with the names myFirstname and myLastName 
+// Summary: This section gave me an understanding of creating 2 seperate string variables with the names myFirstname and myLastName 
 
 // Example
 var firstName = "Alan";

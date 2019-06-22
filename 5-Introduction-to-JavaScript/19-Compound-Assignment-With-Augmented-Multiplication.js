@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of using the " *= " operator to multiply a variable by any number.
+// Summary: This section gave me an understanding of using the " *= " operator to multiply a variable by any number.
 
 var a = 5;
 var b = 12;

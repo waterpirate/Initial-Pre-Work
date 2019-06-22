@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of finding the length of a string's value by using the .length command right after the variable's name.
+// Summary: This section gave me an understanding of finding the length of a string's value by using the .length command right after the variable's name.
 
 // Example
 var firstNameLength = 0;
