@@ -1,4 +1,4 @@
-// Summary: This section gave me an understanding of array entries and how they can also be mutable, as well asable to be assigned universally.
+// Summary: This section gave me an understanding of array entries and how they can also be mutable, as well as able to be assigned universally.
 
 // Example
 var ourArray = [18,64,99];

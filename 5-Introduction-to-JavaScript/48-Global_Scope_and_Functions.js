@@ -1,4 +1,4 @@
-// Summary: This section gave me an understanding of the impotance of declaring vairiables with var. creating variables without using the var keyword before the variable can create problems when running other functions. variables created without var are automatically created in the global scope.
+// Summary: This section gave me an understanding of the impotance of declaring vairiables with var. Creating variables without using the var keyword before the variable can create problems when running other functions. Variables created without var are automatically created in the global scope.
 
 // Declare your variable here
 

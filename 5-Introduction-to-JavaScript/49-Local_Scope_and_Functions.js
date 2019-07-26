@@ -1,4 +1,4 @@
-//Summary: This section gave me an understanding of how vairables can only be decalared within thier function. Running the variable outside of its function will result in an undefined output.
+// Summary: This section gave me an understanding of how vairables can only be decalared within thier function. Running the variable outside of its function will result in an undefined output.
 
 function myLocalScope() {
   'use strict'; // you shouldn't need to edit this line
